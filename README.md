@@ -19,7 +19,7 @@ This project was created using the following software and packages:
 * R v4.0.2
 * dplyr v1.0.1
 
-## Files
+## Files Used
 * "README.md"
 * "CodeBook.md": describes the variables, the data, and any transformations or work performed to clean up the data
 * "run_analysis.R": R script that reads the data and gives the needed output
